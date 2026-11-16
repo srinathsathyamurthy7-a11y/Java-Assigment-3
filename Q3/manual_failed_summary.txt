@@ -1,0 +1,2 @@
+Q3/store1.txt: Rs. 12500.5
+Q3/store2.txt: Rs. 18400.0
